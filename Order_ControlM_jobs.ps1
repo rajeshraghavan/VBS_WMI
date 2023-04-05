@@ -1,4 +1,7 @@
-﻿#
+##################################################################################################################
+#This Script will order all the jobs after a specified time in the day
+#Author - rraghavan
+#################################################################################################################
 #             Fetch folder info via deploy jobs::get
 #             Examine each job for "FromTime" value
 #             If a job's FromTime is earlier than "cutoffTime", skip the job
